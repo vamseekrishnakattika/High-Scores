@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">High Scores</string>
+    <string name="player_name">Player Name</string>
+    <string name="score">Score</string>
+    <string name="save_button">Save</string>
+    <string name="add_button">Add</string>
+    <string name="mm_dd_yyyy_hh_mm_ss">MM/DD/YYYY HH:MM:SS</string>
+</resources>
